@@ -9,7 +9,7 @@ Features
 
 ## Installation
 
-git clone https://github.com/yourusername/face-recognition-app.git
+git clone https://github.com/yourusername/face-recognition-app.git.
 cd face-recognition-app.
 
 ```bash
@@ -40,6 +40,5 @@ Credits
 Libraries Used: OpenCV, face_recognition, Flask.
 
 ## Example Output
-Example Output
-Success: "Face Matched! The uploaded image matches the reference image."
-Failure: "No match found. The uploaded image does not match the reference image."
+Success: "Face Matched!" The uploaded image matches the reference image.
+Failure: "No match found". The uploaded image does not match the reference image.
